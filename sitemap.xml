@@ -6,7 +6,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ludwikc.net/ksiazka/lifehacker/</loc>
+         <loc>https://ludwikc.net/ksiazka/lifehacker-vol1/</loc>
          <lastmod>2024-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -16,7 +16,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ludwikc.net/spoecznosc/hackerzy-roadmap/</loc>
+         <lastmod>2024-08-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ludwikc.net/spoecznosc/toolbox-hackerow/</loc>
+         <lastmod>2024-08-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ludwikc.net/digital-garden/digital-garden/</loc>
+         <lastmod>2024-08-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ludwikc.net/digital-garden/moving-obsidian-notes/</loc>
+         <lastmod>2024-08-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ludwikc.net/digital-garden/obsidian-makemd-context-test/</loc>
          <lastmod>2024-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -32,6 +52,11 @@
     </url>
     <url>
          <loc>https://ludwikc.net/blog/wpis-testowy/</loc>
+         <lastmod>2024-08-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ludwikc.net/blog/task-list-test/</loc>
          <lastmod>2024-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
